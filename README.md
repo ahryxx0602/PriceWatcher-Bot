@@ -55,7 +55,7 @@ npm install
 ```env
 BOT_TOKEN=<token_bot_telegram_của_bạn>
 CHAT_ID=<chat_id_của_bạn>
-TARGET_URL=https://cellphones.com.vn/laptop.html
+TARGET_URL=https://cellphones.com.vn
 ```
 
 > **Lấy BOT_TOKEN**: Chat với [@BotFather](https://t.me/BotFather) trên Telegram → `/newbot`
@@ -119,6 +119,3 @@ Khi chạy app, giao diện CLI sẽ hiện trên terminal:
 | [axios](https://www.npmjs.com/package/axios) | HTTP client |
 | [dotenv](https://www.npmjs.com/package/dotenv) | Quản lý biến môi trường |
 
-## 📄 License
-
-MIT
